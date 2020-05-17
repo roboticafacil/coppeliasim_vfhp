@@ -1,14 +1,6 @@
 .qmake.stash
 Makefile
 *.o
-libsimExtVFHp.1.0.0.dylib
-libsimExtVFHp.1.0.dylib
-libsimExtVFHp.1.dylib
-libsimExtVFHp.dylib
-libsimExtVFHp.so
-libsimExtVFHp.so.1
-libsimExtVFHp.so.1.0
-libsimExtVFHp.so.1.0.0
 Makefile.Debug
 Makefile.Release
 object_script.*.Debug
