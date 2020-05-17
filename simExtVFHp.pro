@@ -56,7 +56,7 @@ unix:!symbian {
 }
 
 HEADERS += \
-    simExtPluginSkeleton.h \
+    simExtVFHp.h \
     ./include/stack/stackBool.h \
     ./include/stack/stackNull.h \
     ./include/stack/stackNumber.h \
